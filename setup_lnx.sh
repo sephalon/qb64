@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 #QB64 Installer -- Shell Script -- Matt Kilgore 2013
 #Version 5 -- January 2020
 
